@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "IBDA3 LAB - Laboratoire d'innovation pour la jeunesse",
-  description: "Un laboratoire d'innovation pour la jeunesse. Incubation, formation, mentorat et mise en réseau pour transformer une idée en projet structuré.",
+  description: "Un laboratoire d'innovation pour la jeunesse marocaine. Incubation, formation, mentorat et mise en réseau pour transformer une idée en projet structuré.",
 };
 
 export default function RootLayout({
